@@ -174,9 +174,9 @@ If you’re building serious AI products — especially around **LLMs, RAG, agen
 
 ## 📫 Connect with me
 
-* **LinkedIn:** *Add your LinkedIn link here*
+* **LinkedIn:** https://www.linkedin.com/in/rupak-jee-kashyap-b57617216/
 * **GitHub:** [github.com/rupak-eng](https://github.com/rupak-eng)
-* **Email:** *Add your email here*
+* **Email:** rupakji74@gmail.com
 
 ---
 
